@@ -22,7 +22,7 @@ ID,p_NObeyesdad
 869,Overweight_Level_I
 131,Normal_Weight
 472,Normal_Weight
-488,Overweight_Level_I
+488,Normal_Weight
 527,Insufficient_Weight
 473,Normal_Weight
 824,Overweight_Level_I
@@ -154,7 +154,7 @@ ID,p_NObeyesdad
 69,Normal_Weight
 230,Normal_Weight
 200,Obesity_Type_I
-247,Normal_Weight
+247,Overweight_Level_I
 309,Normal_Weight
 95,Normal_Weight
 283,Normal_Weight
